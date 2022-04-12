@@ -24,7 +24,7 @@
     },
     "require": {
         "php": "^7.4 || ^8.0",
-        "friendsofsymfony/rest-bundle": "^2.8",
+        "friendsofsymfony/rest-bundle": "^3.1",
         "jms/serializer-bundle": "~2.0|~3.0",
         "symfony/framework-bundle": "~3.4|^4.3|^5.0",
         "symfony/asset": "~3.4|^4.3|^5.0",
