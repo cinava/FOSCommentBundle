@@ -3,6 +3,7 @@
 <phpunit bootstrap="./tests/bootstrap.php" colors="true">
     <php>
         <ini name="xdebug.max_nesting_level" value="200" />
+		<env name="SYMFONY_DEPRECATIONS_HELPER" value="disabled" />
     </php>
     <testsuites>
         <testsuite name="FOSCommentBundle test suitei">
