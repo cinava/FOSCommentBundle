@@ -60,6 +60,7 @@ class CommentManager extends BaseCommentManager
         $this->class = $metadata->name;
     }
 
+	//test 1
     /**
      * {@inheritdoc}
      */
